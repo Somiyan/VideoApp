@@ -6,7 +6,7 @@ import VideoDetails from './VideoDetails';
 import './VideoItem.css'
 
 
-const KEY = 'AIzaSyCZInw8dgrWZ6S7Y2pbOKJtinkFeqNpKDk ';
+const KEY = ''; // PUT YOUR YOUTUBE API KEY
 class App extends React.Component{
   state = {videos : [] ,onVideoSelect :null };
 
